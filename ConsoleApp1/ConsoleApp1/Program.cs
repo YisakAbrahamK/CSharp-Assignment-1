@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Repository test first line");
+            Console.WriteLine("CSharp-Assignment-1");
         }
     }
 }
